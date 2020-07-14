@@ -32,7 +32,7 @@ print("\nThe Total Amount Payable is: {}".format(total))
 
 
 
-# import csv
+#import csv
 #
 #
 # def findProduct(productId):
